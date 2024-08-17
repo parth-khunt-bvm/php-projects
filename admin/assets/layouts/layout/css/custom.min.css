@@ -1,0 +1,17 @@
+.mt-15{
+    margin-top: 15px;
+}
+
+.is-invalid{
+    border: 1px solid red;
+    color: red;
+}
+
+.input-icon .fa-warning {
+    color: #ed6b75;
+}
+
+.input-icon .fa-check{
+    color: green;
+}
+
